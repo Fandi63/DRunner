@@ -1,5 +1,3 @@
-# DRunner
-DRunner is an open source alternative to rubber ducky.
 
 
 # The Language
