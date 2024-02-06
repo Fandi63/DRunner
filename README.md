@@ -23,3 +23,13 @@ You just make an .txt file in the same directory as your DRunner executables.
 
 This software is made for penetration testing!
 Don't use it for ilegal activities.
+
+# Features
+
+- Comes with instructions that can be
+easily used for keystroke injection attack.
+
+- Beginner friendly simple language
+
+- The language is very simple, but good enough
+ for the purpose.
