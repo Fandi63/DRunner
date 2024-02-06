@@ -5,7 +5,7 @@ DRunner is an open source alternative to rubber ducky.
 # The Language
 
 
-Drunner uses .txt files. They are like plain ext, but DRunner actually processes instructions from these files.
+Drunner uses .txt files. They are like plain text, but DRunner actually processes instructions from these files.
 
 
 #### Example 
