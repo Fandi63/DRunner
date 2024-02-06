@@ -18,3 +18,5 @@ MULT 3, 7
 DIV 15, 3
 ADD 10, 20
 ```
+
+You just make an .txt file in the same directory as your DRunner executables.
