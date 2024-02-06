@@ -27,7 +27,7 @@ Don't use it for ilegal activities.
 # Features
 
 - Comes with instructions that can be
-easily used for keystroke injection attack.
+easily used for keystroke injection attacks.
 
 - Beginner friendly simple language
 
