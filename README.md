@@ -20,3 +20,8 @@ ADD 10, 20
 ```
 
 You just make an .txt file in the same directory as your DRunner executables.
+
+# WARNING
+
+This software is made for penetration testing!
+Don't use it for ilegal activities.
