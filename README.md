@@ -33,3 +33,5 @@ easily used for keystroke injection attacks.
 
 - The language is very simple, but good enough
  for the purpose.
+
+- Tested on Windows 10
