@@ -23,6 +23,7 @@ You just make an .txt file in the same directory as your DRunner executables.
 
 This software is made for penetration testing!
 Don't use it for ilegal activities.
+Software don't work on Linux or MacOS.
 
 # Features
 
