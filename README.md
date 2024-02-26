@@ -36,3 +36,5 @@ easily used for keystroke injection attacks.
  for the purpose.
 
 - Tested on Windows 10
+
+- You must write an autorun to make it really work.
